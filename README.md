@@ -1,6 +1,13 @@
 # nest-typescript-intro
 
-## Run
+Intro typescript for Nest with Vite
 
-`npm run dev`
-`yarn run dev`
+## Run Project
+
+```shell
+npm run dev
+```
+
+```shell
+yarn run dev
+```
